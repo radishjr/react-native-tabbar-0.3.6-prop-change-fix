@@ -1,0 +1,21 @@
+{
+  "name": "react-native-tabbar-0.3.6-prop-change-fix",
+  "version": "0.1.0",
+  "description": "> RN 0.25 is now supported from 0.3.6 above",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "react-native-tabbar-0.3.6-prop-change-fix"
+  },
+  "keywords": [
+    "react-native-tabbar"
+  ],
+  "author": "radishjr",
+  "license": "ISC"
+}
